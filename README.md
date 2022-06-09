@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ntxsay, i am french
 - 👀 I’m interested in desktop application developing
 - 🌱 I’m currently learning C# C-Sharp
-- 💞️ I don't have a degree as a C# developer but my wish is to join a .NET C# developer team and acquire skills.
-     <br />I show you what I can do and what I can't do.
+- 💞️ I don't have a degree as a C# developer but I show you what I can do and what I can't do.
 - 📫 You can reach me on ntxsay@hotmail.fr
 
 <!---
