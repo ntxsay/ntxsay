@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ntxsay, i am french
-- 👀 I’m interested in desktop application developing
-- 🌱 I’m currently use C# C-Sharp language for developing desktop, mobile and web app
-- 💞️ I'm learning swiftUI 
-- 📫 You can reach me on ntxsay@hotmail.fr
+👋 Hi, I’m @ntxsay, i am french and I love Animes.
+
+I'm not an engineer, I'm not a student, but I like developing applications for pleasure or in relation to what I'm passionate about. 💙
 
 <!---
 ntxsay/ntxsay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
